@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentPortalSMS", "StudentPortalSMS.csproj", "{87D1831D-CDA4-4E26-AE50-605E1C2F039F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conversions", "..\Conversions\Conversions.csproj", "{F8421FC3-D450-4F74-9272-386D46B7543A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D1831D-CDA4-4E26-AE50-605E1C2F039F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D1831D-CDA4-4E26-AE50-605E1C2F039F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D1831D-CDA4-4E26-AE50-605E1C2F039F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D1831D-CDA4-4E26-AE50-605E1C2F039F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8421FC3-D450-4F74-9272-386D46B7543A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8421FC3-D450-4F74-9272-386D46B7543A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8421FC3-D450-4F74-9272-386D46B7543A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8421FC3-D450-4F74-9272-386D46B7543A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC1953F-5950-494E-98FA-161424033363}
+	EndGlobalSection
+EndGlobal
